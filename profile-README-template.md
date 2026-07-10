@@ -13,13 +13,13 @@
 </tr>
 </table>
 
-## Nikshay
+## YOUR NAME
 
-**Java Backend Dev · BCA'26 · Spring Boot & REST APIs**
+**Your Title · Second Thing · Third Thing**
 
-[![Instagram](https://img.shields.io/badge/Instagram-nikshay__kr__singh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikshay_kr_singh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nikshay__kr__singh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nikshay_kr_singh/)
-[![Gmail](https://img.shields.io/badge/Email-consultnikshay-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:consultnikshay@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
 
 <br>
 
