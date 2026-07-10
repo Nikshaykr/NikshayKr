@@ -45,13 +45,13 @@ CELL_DUR = 0.42
 def level_for(count):
     if count == 0:
         return 0
-    if count <= 5:
+    if count <= 3:
         return 1
-    if count <= 15:
+    if count <= 5:
         return 2
-    if count <= 30:
+    if count <= 10:
         return 3
-    if count <= 50:
+    if count <= 20:
         return 4
     return 5
 
